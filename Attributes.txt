@@ -1,0 +1,96 @@
+1. Chat
+         1. Group Chats
+         2. one-on-one (Private) Chat
+         3. Document Collaboration
+         4. linkage with Skype for Buisness for Contact and for Sharing.
+         5. linkage with Active Directory
+         
+2. Search Command
+
+3. Action Command
+
+5. Calender
+         1. Days
+         2. Months 
+         3. Year
+
+6. Team, Channel, Group Chats
+
+7. Writing Message
+         1. Messaging extention (Search command)
+         2. Messaging extention (linkage unfurling)
+         3. Message extention (action command)
+
+8. User Interface  of Elements
+         1. Cards And Card Actions
+         2. Task Modules
+         3. URL deep Links
+
+9. Settings
+         1. General prompt
+         2. Help
+         3. Notifications
+         4. theme
+         5. Add Account
+         6. Remove account
+         7. Delete Account
+         8. Refresh Account
+         9. SignIn/Out command
+
+10. Web Content Page
+         1. for hosted on an HTTPS.
+         2. Be able to be embedded in an <iframe> by the Teams client.
+         3. Include the Microsoft Teams JavaScript client SDK, and invoke the SDK's initialize() method on page load.
+11. PERSON
+         1. Name 
+         2. Address
+         3. AGE, Contact details
+         4. Email, Student.
+         
+
+12. TEACHER (Person)
+         1. Name, qualification,Age, ADDRESS, mail address, Contact NO.
+
+13. Assignments
+         1. Person Details(Student, Teacher)
+         2. Class-Course 
+         3. Class-Teacher
+         4. University Server Details
+         5. HEC details
+
+
+
+14. Meeting Sceduals
+         1. Time, Date, Day
+         2. Students, Teachers Contact details       
+
+15. Calls
+         1. Student (Contact No. Data)
+         2. Teacher (Contact no. Data)
+         3. Microsoft server connector
+
+16. Teams
+         1. Creat team(command)
+         2. Join team (Command)
+         3. Search team (command)
+
+17. File
+         1. File_Download option
+         2. Recent_files option
+         3. File_Storage (Cloud, Drive)
+
+18. Status Visiblity
+         1. Available 
+         2. Offline
+         3. Busy
+         4. Do not Disturb
+         5. Not responding :(
+
+
+        
+
+     
+        
+
+
+
